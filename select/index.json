@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ありふれたBattle Song～いつも戦闘は面倒だ～",
+  "base_artist": "She is Legend",
+  "createdAt": "2026-02-18T13:05:33.377692Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ありふれたBattle Song～いつも戦闘は面倒だ～",
+      "artist": "She is Legend",
+      "has_synced": false,
+      "path": "select/pl_01_ありふれたBattle_Song~いつも戦闘は面倒だ~_She_is_Legend.txt"
+    }
+  ]
+}
